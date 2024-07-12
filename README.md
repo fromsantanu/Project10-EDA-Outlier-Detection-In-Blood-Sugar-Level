@@ -22,7 +22,7 @@ Detecting outliers in line chart to determine Blood Sugar spikes
 
 ## Description
 
-Cases of heart failure cases in Kolkata compared for Smokers and Alcoholics during different months of the year. The plotting in this case has been done as comparable line chart with different colors.
+A case study on monitoring and analyzing blood glucose levels in diabetic patients. We will focus on Patient A, whose data spans from January to March 2024. Here we will study the pattent in the blood glucose level by looking at a line chart showing fluctuations in the readings that has been recorded during this period.
 
 ## Video
 
@@ -96,6 +96,15 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+## Interpretation of the chart
+
+- The plot of blood glucose levels for Patient A from January to March 2024 shows an overall stable trend with regular fluctuations around the baseline of approximately 140 mg/dL. 
+- Most data points fall within the range of 100 mg/dL to 160 mg/dL, indicating that the patient's blood glucose levels are generally well-controlled on a daily basis. 
+- These minor variations are expected and likely influenced by daily activities, meals, and medication adherence.
+- However, there are several significant outliers observed in mid-January and early February, with glucose levels spiking to over 300 mg/dL. 
+- These spikes represent episodes of severe hyperglycemia, which are concerning and require immediate medical attention. -
+- Identifying the causes of these outliers is crucial, as they could be related to dietary habits, missed medication, stress, or other factors. 
+- Continuous monitoring and consultation with healthcare providers are recommended to adjust the treatment plan and prevent future hyperglycemic events, ensuring better overall management of the patient's condition.
 
 ## Contribution
 
