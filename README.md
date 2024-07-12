@@ -51,12 +51,11 @@ base_glucose = 120 + np.random.normal(0, 10, num_days)
 # Add occasional high spikes to simulate outliers
 spikes = np.random.choice([0, 0, 0, 0, 200], num_days, p=[0.90, 0.01, 0.01, 0.01, 0.07])
 glucose_levels = base_glucose + spikes
-
+```
 
 ## Program-codes
 
 ```python
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -87,6 +86,7 @@ plt.xlabel('Date')
 plt.ylabel('Blood Glucose Level (mg/dL)')
 plt.grid(True)
 plt.show()
+```
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below. However, the output may not be generated on colab. For that you have to download the program and run it locally. Make sure that the packages are all installed.
 
