@@ -1,5 +1,3 @@
-# Project10-EDA-Outlier-Detection-In-Blood-Sugar-Level
-Detecting outliers in line chart to determine Blood Sugar spikes
 # Outlier Detection In Blood Sugar Level
 > **Brief Description:** - Detecting outliers in line chart to determine Blood Sugar spikes
 
